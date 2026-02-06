@@ -1,0 +1,4 @@
+- [ ] Pesquisar CNPJ e contatos de todos os cursinhos parceiros
+- [ ] Pesquisar e baixar logos do Bernoulli e Jornal O Tempo
+- [ ] Atualizar páginas dos parceiros com novos dados de contato
+- [ ] Criar seção de Parceiros Institucionais na Home
